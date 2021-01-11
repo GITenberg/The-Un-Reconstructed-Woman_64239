@@ -1,0 +1,23 @@
+_repo: The-Un-Reconstructed-Woman_64239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, Hayden
+    alias: Howard, John Hayden
+    birthdate: 1925
+    deathdate: 2014
+    gutenberg_agent_id: '51189'
+    url: http://www.gutenberg.org/2009/agents/51189
+description: ''
+gutenberg_issued: '2021-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Un-Reconstructed Woman
+url: http://www.gutenberg.org/ebooks/64239
